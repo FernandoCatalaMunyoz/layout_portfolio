@@ -1,0 +1,24 @@
+/* header{
+    background-color: tomato;
+    color: white;
+    height: 40px;
+}*/
+
+*{
+    margin: 1;
+}
+
+.cabecera-header{background-color: rgb(21, 28, 99);
+    color: white;
+    height: 40px;
+}
+body{
+    background-color: gray;
+    color: white;
+    font: small-caption;
+}
+footer{
+    background-color: rgb(33, 43, 126);
+    color: white;
+    height: 40px;
+}
